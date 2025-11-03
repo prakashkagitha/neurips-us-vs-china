@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS-specific clutter
+.DS_Store
+Thumbs.db

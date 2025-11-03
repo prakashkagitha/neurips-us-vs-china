@@ -1,0 +1,101 @@
+year,affiliation,paper_count,region,country,rank
+2021,Google,258,United States,United States,1.0
+2021,Massachusetts Institute of Technology,189,United States,United States,2.0
+2021,Microsoft,183,United States,United States,3.0
+2021,Stanford University,179,United States,United States,4.0
+2021,"University of California, Berkeley",158,United States,United States,5.0
+2021,Meta AI,157,United States,United States,6.0
+2021,Carnegie Mellon University,136,United States,United States,7.0
+2021,Amazon,121,United States,United States,8.0
+2021,Tsinghua University,118,China,China,9.0
+2021,Harvard University,105,United States,United States,10.0
+2021,University of Oxford,101,Europe,United Kingdom,11.0
+2021,Google DeepMind,95,Europe,United Kingdom,12.0
+2021,Peking University,82,China,China,13.0
+2021,Princeton University,68,United States,United States,14.0
+2021,University of Cambridge,68,Europe,United Kingdom,14.0
+2021,New York University,66,United States,United States,16.0
+2021,"University of California, Los Angeles",65,United States,United States,17.0
+2021,University of Illinois Urbana-Champaign,65,United States,United States,17.0
+2021,Georgia Institute of Technology,62,United States,United States,19.0
+2021,Columbia University,61,United States,United States,20.0
+2022,Google,206,United States,United States,1.0
+2022,Stanford University,179,United States,United States,2.0
+2022,Tsinghua University,167,China,China,3.0
+2022,Massachusetts Institute of Technology,154,United States,United States,4.0
+2022,Microsoft,149,United States,United States,5.0
+2022,"University of California, Berkeley",145,United States,United States,6.0
+2022,Carnegie Mellon University,135,United States,United States,7.0
+2022,Meta AI,121,United States,United States,8.0
+2022,Peking University,101,China,China,9.0
+2022,Amazon,100,United States,United States,10.0
+2022,Harvard University,96,United States,United States,11.0
+2022,University of Oxford,90,Europe,United Kingdom,12.0
+2022,University of Illinois Urbana-Champaign,85,United States,United States,13.0
+2022,Chinese Academy of Sciences,78,China,China,14.0
+2022,Google DeepMind,76,Europe,United Kingdom,15.0
+2022,Princeton University,74,United States,United States,16.0
+2022,"University of California, Los Angeles",68,United States,United States,17.0
+2022,New York University,64,United States,United States,18.0
+2022,Zhejiang University,56,China,China,19.0
+2022,Georgia Institute of Technology,54,United States,United States,20.0
+2023,Google,236,United States,United States,1.0
+2023,Massachusetts Institute of Technology,222,United States,United States,2.0
+2023,Stanford University,194,United States,United States,3.0
+2023,"University of California, Berkeley",188,United States,United States,4.0
+2023,Carnegie Mellon University,181,United States,United States,5.0
+2023,Microsoft,176,United States,United States,6.0
+2023,Tsinghua University,170,China,China,7.0
+2023,Meta AI,123,United States,United States,8.0
+2023,Peking University,122,China,China,9.0
+2023,Chinese Academy of Sciences,103,China,China,10.0
+2023,Harvard University,99,United States,United States,11.0
+2023,University of Oxford,98,Europe,United Kingdom,12.0
+2023,Amazon,86,United States,United States,13.0
+2023,University of Illinois Urbana-Champaign,85,United States,United States,14.0
+2023,Google DeepMind,84,Europe,United Kingdom,15.0
+2023,Zhejiang University,83,China,China,16.0
+2023,National University of Singapore,81,Asia-Pacific (excl. China),Singapore,17.0
+2023,University of Science and Technology of China,78,China,China,18.0
+2023,The Chinese University of Hong Kong,73,China,Hong Kong,19.0
+2023,Princeton University,72,United States,United States,20.0
+2024,Tsinghua University,287,China,China,1.0
+2024,Carnegie Mellon University,218,United States,United States,2.0
+2024,Google,211,United States,United States,3.0
+2024,Microsoft,199,United States,United States,4.0
+2024,"University of California, Berkeley",197,United States,United States,5.0
+2024,Peking University,190,China,China,6.0
+2024,Massachusetts Institute of Technology,187,United States,United States,7.0
+2024,Zhejiang University,177,China,China,8.0
+2024,Stanford University,174,United States,United States,9.0
+2024,Chinese Academy of Sciences,156,China,China,10.0
+2024,Meta AI,149,United States,United States,11.0
+2024,National University of Singapore,134,Asia-Pacific (excl. China),Singapore,12.0
+2024,Nanyang Technological University,129,Asia-Pacific (excl. China),Singapore,13.0
+2024,The Chinese University of Hong Kong,122,China,Hong Kong,14.0
+2024,Amazon,113,United States,United States,15.0
+2024,Harvard University,111,United States,United States,16.0
+2024,Shanghai Jiaotong University,111,China,China,16.0
+2024,The Hong Kong University of Science and Technology,106,China,Hong Kong,18.0
+2024,University of Oxford,105,Europe,United Kingdom,19.0
+2024,University of Illinois Urbana-Champaign,97,United States,United States,20.0
+2025,Tsinghua University,407,China,China,1.0
+2025,Peking University,292,China,China,2.0
+2025,Chinese Academy of Sciences,271,China,China,3.0
+2025,Massachusetts Institute of Technology,224,United States,United States,4.0
+2025,Google,220,United States,United States,5.0
+2025,Carnegie Mellon University,219,United States,United States,6.0
+2025,Microsoft,212,United States,United States,7.0
+2025,Zhejiang University,201,China,China,8.0
+2025,The Chinese University of Hong Kong,196,China,Hong Kong,9.0
+2025,University of Science and Technology of China,196,China,China,9.0
+2025,"University of California, Berkeley",189,United States,United States,11.0
+2025,Nanyang Technological University,188,Asia-Pacific (excl. China),Singapore,12.0
+2025,National University of Singapore,185,Asia-Pacific (excl. China),Singapore,13.0
+2025,Stanford University,184,United States,United States,14.0
+2025,Shanghai Jiaotong University,181,China,China,15.0
+2025,University of Illinois Urbana-Champaign,153,United States,United States,16.0
+2025,Fudan University,151,China,China,17.0
+2025,Alibaba Group,146,China,China,18.0
+2025,Meta AI,145,United States,United States,19.0
+2025,The Hong Kong University of Science and Technology,145,China,Hong Kong,19.0
