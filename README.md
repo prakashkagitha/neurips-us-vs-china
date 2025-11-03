@@ -49,7 +49,7 @@ This repository packages the scripts, datasets, and artifacts used to analyze Ne
 
 ## Data Notes
 
-- The NeurIPS accepted-paper exports (2021–2025) are sourced from `programming/papertrails/neurips20XX_accepted.csv` in the original workspace and are redistributed here (~34 MB total).
+- The NeurIPS accepted-paper exports (2021–2025) are sourced from openreview and are redistributed here (~34 MB total).
 - `world_universities_and_domains.json` provides auxiliary affiliation → country mapping support.
 - `unknown_region_papers.csv` enumerates papers that could not be mapped to a region (currently 302 across the five years).
 
@@ -61,9 +61,6 @@ Key derived artifacts include:
 - `top_affiliation_bump.png`: Trajectories for top affiliations from the US and China ecosystems.
 - `region_share_stacked.png`: Marketing-ready stacked area chart showing regional share shifts.
 
-## License
-
-Add your preferred license here before publishing.
 
 ## Reproducibility
 
